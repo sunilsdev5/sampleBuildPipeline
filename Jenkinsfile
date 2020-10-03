@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('first') {
             steps {
-                echo "First Job From Pipeline"
+                echo "First Job From Pipeline "
             }
         }
         stage('second') {
